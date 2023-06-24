@@ -1,41 +1,42 @@
 <h6>E-Banking Rapport</h6>
 
 <h4>Client</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\Client.PNG">
+<img src="captures\Client.PNG">
 
 <h4>Formulaire pour ajouter des clients </h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\AjouterClient.PNG">
+<img src="captures\AjouterClient.PNG">
 
 
 <h4>Ajout de la cliente HALA</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\AjoutClient1.PNG">
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\ClientAjouter.PNG">
+<img src="captures\AjoutClient1.PNG">
+
+<img src="captures\ClientAjouter.PNG">
 
 <h4> Supprimer un client</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\Supprimer.PNG">
+<img src="captures\Supprimer.PNG">
 
 <h4> Information sur un client </h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\InforClient.PNG">
+<img src="captures\InforClient.PNG">
 
 <h4>Chercher un client par son nom</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\RechercherClient.PNG">
+<img src="captures\RechercherClient.PNG">
 
 <h4>Compte Client</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\InfoCompteClient.PNG">
+<img src="captures\InfoCompteClient.PNG">
 
 <h4>Credit</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\Credit.PNG">
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\creditsucces.PNG">
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\showcredit.PNG">
+<img src="captures\Credit.PNG">
+<img src="captures\creditsucces.PNG">
+<img src="captures\showcredit.PNG">
 
 <h4>Debit</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\Debit.PNG">
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\DebitSucces.PNG">
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\showDebitPNG.PNG">
+<img src="captures\Debit.PNG">
+<img src="captures\DebitSucces.PNG">
+<img src="captures\showDebitPNG.PNG">
 
 <h4>Transfer</h4>
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\transfer.PNG">
-<img src="C:\Users\PC\IdeaProjects\BANKING\digital-banking-web\captures\transfersucces.PNG">
+<img src="captures\transfer.PNG">
+<img src="captures\transfersucces.PNG">
 
 
 
